@@ -1,0 +1,14 @@
+.mapBlock {
+    padding: 10px;
+    display: block;
+    width: 48%;
+    border-radius: 5px;
+    border: 2px solid white;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .mapBlock {
+        width: 100%;
+    }
+}

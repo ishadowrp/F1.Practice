@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c646f61.css",
+    "main.js": "/static/js/main.5c6743ba.js",
+    "static/js/787.2a38e5c6.chunk.js": "/static/js/787.2a38e5c6.chunk.js",
+    "static/media/clouds-svgrepo-com.svg": "/static/media/clouds-svgrepo-com.867c2368ba152308cccdb1089ce05fb4.svg",
+    "static/media/storm-svgrepo-com.svg": "/static/media/storm-svgrepo-com.842155bc1a58155eaca04260f02b6c63.svg",
+    "static/media/morning-rain-svgrepo-com.svg": "/static/media/morning-rain-svgrepo-com.faf23aa738621548cda10040dd40eeba.svg",
+    "static/media/snow-svgrepo-com.svg": "/static/media/snow-svgrepo-com.d556d79317f19dfc378ad22cfa751a80.svg",
+    "static/media/rainy-svgrepo-com.svg": "/static/media/rainy-svgrepo-com.ad92334bfa3b06a72d1dfff6bf14cb9d.svg",
+    "static/media/geolocation-white.svg": "/static/media/geolocation-white.12fe4694beb8211608459239336ad51b.svg",
+    "static/media/sunny-svgrepo-com.svg": "/static/media/sunny-svgrepo-com.46e1eeabb9a280f52c7405fbcfa3bf65.svg",
+    "static/media/weather_logo.svg": "/static/media/weather_logo.ba5cd839c65ce02773a545dc415eca10.svg",
+    "index.html": "/index.html",
+    "main.2c646f61.css.map": "/static/css/main.2c646f61.css.map",
+    "main.5c6743ba.js.map": "/static/js/main.5c6743ba.js.map",
+    "787.2a38e5c6.chunk.js.map": "/static/js/787.2a38e5c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c646f61.css",
+    "static/js/main.5c6743ba.js"
+  ]
+}

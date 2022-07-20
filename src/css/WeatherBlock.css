@@ -1,0 +1,32 @@
+.weatherBlock {
+    padding: 30px 10px;
+    display: block;
+    width: 48%;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.weatherTemp {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin-bottom: 20px;
+}
+
+.weatherIcon {
+    margin: 0 20px;
+}
+
+.resultTableSP {
+    margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+    .weatherTemp {
+        display: block;
+    }
+    .weatherBlock {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}

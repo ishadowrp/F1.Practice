@@ -1,0 +1,39 @@
+.foreCastGroup {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 100vh;
+    padding: 0;
+}
+
+.date {
+    margin-top: 20px;
+}
+
+.containerSP {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 20px;
+}
+
+.precipitations {
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid white;
+    flex-direction: row;
+    overflow-x: scroll;
+}
+.headerPres {
+    margin: 10px 5px 5px 5px;
+}
+
+@media (max-width: 768px) {
+    .containerSP {
+        display: block;
+    }
+}
